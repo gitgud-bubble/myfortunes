@@ -1,0 +1,28 @@
+I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way. I cannot in good conscience sign a nondisclosure agreement or a software license agreement. For years I worked within the Artificial Intelligence Lab to resist such tendencies and other inhospitalities, but eventually they had gone too far: I could not remain in an institution where such things are done for me against my will.
+So that I can continue to use computers without dishonor, I have decided to put together a sufficient body of free software so that I will be able to get along without any software that is not free. I have resigned from the AI lab to deny MIT any legal excuse to prevent me from giving GNU away.
+
+	-- Richard M. Stallman - GNU Manifesto (1985)
+%
+GNU is not in the public domain. Everyone will be permitted to modify and redistribute GNU, but no distributor will be allowed to restrict its further redistribution. That is to say, proprietary modifications will not be allowed. I want to make sure that all versions of GNU remain free.
+
+	-- Richard M. Stallman - GNU Manifesto (1985)
+%
+Once GNU is written, everyone will be able to obtain good system software free, just like air.
+
+	-- Richard M. Stallman - GNU Manifesto (1985)
+%
+The programmers who write improvements to GCC (or Emacs, or Bash, or Linux, or any GPL-covered program) are often employed by companies or universities. When the programmer wants to return his improvements to the community, and see his code in the next release, the boss may say, "Hold on there — your code belongs to us! We don't want to share it; we have decided to turn your improved version into a proprietary software product."
+Here the GNU GPL comes to the rescue. The programmer shows the boss that this proprietary software product would be copyright infringement, and the boss realizes that he has only two choices: release the new code as free software, or not at all. Almost always he lets the programmer do as he intended all along, and the code goes into the next release.
+
+	-- Richard M. Stallman - Copyleft: Pragmatic Idealism (1998)
+%
+If you focus your mind on the freedom and community that you can build by staying firm, you will find the strength to do it. "Stand for something, or you will fall for nothing."
+And if cynics ridicule freedom, ridicule community...if "hard nosed realists" say that profit is the only ideal...just ignore them, and use copyleft all the same.
+
+	-- Richard M. Stallman - Copyleft: Pragmatic Idealism (1998)
+%
+When I released GNU Emacs and people started using it, they started sending me improvements in the mail. So I would get a message with a bug fix, and a message with a new feature, and another bug fix, and another new feature, and another... and another... until they were pouring in on me so fast that just taking advantage of all of the help people were giving me was a big job. Microsoft doesn't have this problem.
+
+    Richard M. Stallman - "The Free Software Movement and the GNU/Linux Operating System", address at LinuxTag (July 2000)
+%
+
