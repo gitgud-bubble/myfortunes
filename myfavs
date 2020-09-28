@@ -9,3 +9,19 @@ circumstances can the food be omitted.
 %
 Anything worth doing is worth overdoing
 %
+Any clod can have the facts, but having opinions is an art.
+		-- Charles McCabe
+%
+What is Ratpoison?
+
+Ratpoison is a simple Window Manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence. It is largely modelled after GNU Screen which has done wonders in the virtual terminal market.
+
+The screen can be split into non-overlapping frames. All windows are kept maximized inside their frames to take full advantage of your precious screen real estate.
+
+All interaction with the window manager is done through keystrokes. ratpoison has a prefix map to minimize the key clobbering that cripples Emacs and other quality pieces of software. 
+	-- http://www.nongnu.org/ratpoison/
+%
+He who makes a beast of himself gets rid of the pain of being a man.
+	-- Dr. Johnson
+%
+
